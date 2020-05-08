@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "257903EE-9A6D-4142-AB8A-48EA128718DA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D9C61E5-11B9-4192-981E-94F0F7E673BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Views/Cells/ATCStoryCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "configure(viewModel:uiConfig:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90CD7C6E-A581-492B-9BBE-E91E1A8F8E93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Chat/ViewControllers/ATCFriendsCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(uiConfig:reportingManager:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8D9A64F-1E20-4E46-BF4C-6D05BC0B543C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Feed/ViewControllers/ATCSocialNetworkAllFriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(uiConfig:loggedInUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69BE3A96-294E-4CFE-AA6A-CAFE6D8D1923"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Feed/ViewControllers/SocialNetworkNewsFeed/ATCFeedPostsCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "init(uiConfig:datasource:viewer:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22D02EDE-2F1D-4D55-BC80-4E05D777A6F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Feed/Firebase/ATCSocialNetworkFirebaseAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "fetchNewsFeed(loggedInUser:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFE9816C-EB01-4183-BDDE-DC8C5952744C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Feed/Firebase/ATCSocialNetworkFirebaseAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "fetchNewsFeed(loggedInUser:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3F05A54-8D24-495B-B9CC-451D6627705B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Feed/Firebase/ATCSocialNetworkFirebaseAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "fetchNewsFeed(loggedInUser:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3F05A54-8D24-495B-B9CC-451D6627705B - f885f9af445d3c21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Array&lt;SocialNetwork.ATCPostReactionStatus&gt;) -&gt; () in SocialNetwork.ATCSocialNetworkFirebaseAPIManager.fetchNewsFeed(loggedInUser: SocialNetwork.ATCUser, completion: (Swift.Array&lt;SocialNetwork.ATCPost&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/florian/workspace/app-templates-ios/Core/Feed/Firebase/ATCSocialNetworkFirebaseAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "3756">
+               </Location>
+               <Location
+                  uuid = "E3F05A54-8D24-495B-B9CC-451D6627705B - bfb2318e97d84b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SocialNetwork.ATCPostReactionStatus) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Array&lt;SocialNetwork.ATCPostReactionStatus&gt;) -&gt; () in SocialNetwork.ATCSocialNetworkFirebaseAPIManager.fetchNewsFeed(loggedInUser: SocialNetwork.ATCUser, completion: (Swift.Array&lt;SocialNetwork.ATCPost&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/florian/workspace/app-templates-ios/Core/Feed/Firebase/ATCSocialNetworkFirebaseAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F00791E-141D-4E97-9842-DCB6F4ED32AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Core/Chat/ViewControllers/ATCChatThreadViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "init(user:channel:uiConfig:reportingManager:recipients:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
